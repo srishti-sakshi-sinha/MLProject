@@ -1,1 +1,1 @@
-## End to End Machine Leanring project
+## End to End Machine Learning project
